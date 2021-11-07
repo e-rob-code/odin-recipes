@@ -1,1 +1,1 @@
-# odin-recipes
+The current project is to create an html only website with recipes for my favorite meals. Once this is complete, I will have hopefully gained more knowledge on different tags, and I'm really hoping to get this in one shot if I follow my notes correctly. Fingers crossed!
